@@ -1,2 +1,2 @@
 # Light-Exposure-Analyzer.
-This was a small Python project I developed as part of my learning journey. It takes light exposure data, calculates average, highest, and lowest values, and displays the results using graphs. Through this project, I got a chance to practice Python and understand the basics of data analysis and visualization.
+This was a small Python project I developed as part of my learning journey. It takes light exposure data, calculates average, highest, and lowest values, and displays the results using graphs. Through this project, I got a chance to practice Python and understand the basics of data analysis and visualization.                                                                      
